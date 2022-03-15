@@ -2,5 +2,6 @@
 
 members = [
     "rust-by-example",
-    "rust-data-structure"
+    "rust-data-structure",
+    "leetcode"
 ]
