@@ -6,3 +6,6 @@ mod types;
 mod conversion;
 mod expressions;
 mod flow_of_control;
+mod functions;
+mod modules;
+mod generics;
