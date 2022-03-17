@@ -9,3 +9,4 @@ mod flow_of_control;
 mod functions;
 mod modules;
 mod generics;
+mod scoping_rules;
